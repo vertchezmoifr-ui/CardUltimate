@@ -1,11 +1,9 @@
 {
-  "version": "4.31",
-  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V4.31/Card.Ascension.exe",
+  "version": "4.5",
+  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V4.5/Card.Ascension.exe",
   "release_notes": {
-    "fr": "🚀 **MAJEUR : SYSTÈME D'UNBIND CLÉ VIP DISPONIBLE !**\n\n✨ Nouvelles fonctionnalités\n  • Ajout d'une détection automatique du Scale Windows dans les settings\n  • Ajout des notes de patch dans l'app pour les prochaines MAJ\n  • Ajout de l'option \"être anonyme\" (pour les nouveaux joueurs uniquement)\n\n  🔧 Corrections de bugs\n  • Patch du problème Star Trial (perte de focus)\n  • Patch du problème de désynchronisation des stats lié à un ancien fonctionnement\n  • Correction d'un bug qui ne sauvegardait pas le webhook Trial\n  • Correction d'un bug lié au passage de VIP à non-VIP\n\n  📊 Améliorations\n  • Refonte de l'interface de mise à jour",
-    
-    "en": "🚀 **MAJOR: VIP KEY UNBIND SYSTEM IS NOW AVAILABLE!**\n\n✨ New features\n  • Added automatic Windows Scale detection in settings\n  • Added in-app patch notes for future updates\n  • Added \"be anonymous\" option (for new players only)\n\n  🔧 Bug fixes\n  • Fixed Star Trial issue (focus loss)\n  • Fixed stats desync issue related to an old mechanic\n  • Fixed a bug where the Trial webhook wasn't saving\n  • Fixed a bug related to switching from VIP to non-VIP\n\n  📊 Improvements\n  • Update interface revamp",
-    
-    "es": "🚀 **MAYOR: ¡SISTEMA DE DESVINCULACIÓN DE CLAVE VIP DISPONIBLE!**\n\n✨ Nuevas funciones\n  • Añadida detección automática de la Escala de Windows en los ajustes\n  • Añadidas notas de parche en la app para futuras actualizaciones\n  • Añadida la opción \"ser anónimo\" (solo para jugadores nuevos)\n\n  🔧 Correcciones de errores\n  • Parcheado el problema de Star Trial (pérdida de foco)\n  • Parcheado el problema de desincronización de estadísticas ligado a un funcionamiento antiguo\n  • Corregido un error que no guardaba el webhook Trial\n  • Corregido un error relacionado con el cambio de VIP a no-VIP\n\n  📊 Mejoras\n  • Rediseño de la interfaz de actualización"
+    "fr": "xx",
+    "en": "xx",
+    "es": "xx"
   }
 }
