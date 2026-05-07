@@ -1,9 +1,9 @@
 {
-  "version": "4.5",
-  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V4.5/Card.Ascension.exe",
+  "version": "4.6",
+  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V4.6/Card.Ascension.exe",
   "release_notes": {
-    "fr": "xx",
-    "en": "xx",
-    "es": "xx"
+    "fr": "🎯 Star Trial : correction du nombre de tours (5 = 5)\n  ⚡ Performance améliorée (moins de ralentissements en boucle)\n  🐛 Fix erreurs sur saisie numérique\n  🛠  Compatibilité étendue\nSi votre clé ne fonctionne plus, ouvrez un ticket discord.",
+    "en": " 🎯 Star Trial: fixed round count (5 = 5)\n  ⚡ Improved performance (fewer in-loop slowdowns)\n  🐛 Numeric input error fix\n  🛠  Extended compatibility\nIf your key is no longer working, please open a Discord ticket",
+    "es": " 🎯 Star Trial: fixed round count (5 = 5)\n  ⚡ Improved performance (fewer in-loop slowdowns)\n  🐛 Numeric input error fix\n  🛠  Extended compatibility\nIf your key is no longer working, please open a Discord ticket"
   }
 }
