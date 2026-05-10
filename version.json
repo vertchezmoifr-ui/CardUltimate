@@ -1,9 +1,9 @@
 {
-  "version": "4.6",
-  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V4.6/Card.Ascension.exe",
+  "version": "4.7",
+  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V4.7/Card.Ascension.exe",
   "release_notes": {
-    "fr": "🎯 Star Trial : correction du nombre de tours (5 = 5)\n  ⚡ Performance améliorée (moins de ralentissements en boucle)\n  🐛 Fix erreurs sur saisie numérique\n  🛠  Compatibilité étendue\nSi votre clé ne fonctionne plus, ouvrez un ticket discord.",
-    "en": " 🎯 Star Trial: fixed round count (5 = 5)\n  ⚡ Improved performance (fewer in-loop slowdowns)\n  🐛 Numeric input error fix\n  🛠  Extended compatibility\nIf your key is no longer working, please open a Discord ticket",
-    "es": " 🎯 Star Trial: fixed round count (5 = 5)\n  ⚡ Improved performance (fewer in-loop slowdowns)\n  🐛 Numeric input error fix\n  🛠  Extended compatibility\nIf your key is no longer working, please open a Discord ticket"
+    "fr": "✨ Nouvelles fonctionnalités\n• Ajout des nouveaux packs\n• Ajout des nouveaux raids\n• Nouveau mode Auto Buy / Collect Gallery Diamond\n⚠️ Important\n• Si vous avez un problème avec vos clés, venez en ticket sur le Discord",
+    "en": "✨ New Features\n• Added new packs\n• Added new raids\n• New Auto Buy / Collect Gallery Diamond mode\n⚠️ Important\n• If you have any issues with your keys, open a ticket on Discord",
+    "es": "✨ New Features\n• Added new packs\n• Added new raids\n• New Auto Buy / Collect Gallery Diamond mode\n⚠️ Important\n• If you have any issues with your keys, open a ticket on Discord"
   }
 }
