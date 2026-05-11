@@ -1,9 +1,9 @@
 {
-  "version": "4.7",
-  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V4.7/Card.Ascension.exe",
+  "version": "4.8",
+  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V4.8/Card.Ascension.exe",
   "release_notes": {
-    "fr": "✨ Nouvelles fonctionnalités\n• Ajout des nouveaux packs\n• Ajout des nouveaux raids\n• Nouveau mode Auto Buy / Collect Gallery Diamond\n⚠️ Important\n• Si vous avez un problème avec vos clés, venez en ticket sur le Discord",
-    "en": "✨ New Features\n• Added new packs\n• Added new raids\n• New Auto Buy / Collect Gallery Diamond mode\n⚠️ Important\n• If you have any issues with your keys, open a ticket on Discord",
-    "es": "✨ New Features\n• Added new packs\n• Added new raids\n• New Auto Buy / Collect Gallery Diamond mode\n⚠️ Important\n• If you have any issues with your keys, open a ticket on Discord"
+    "fr": "Sélection de Raid : Correction du système de sélection des raids.\nSécurité : Nouvelle méthode de compilation des macros pour éviter la détection par Windows Defender.\nStabilité : Correction de la boucle infinie de l'icône \"Diamond\" dans certaines circonstances.",
+    "en": "Raid Selection: Fixed issues with the raid selection system.\nSecurity: Implemented a different compilation method for macros to prevent Windows Defender detection.\nStability: Fixed the \"Diamond\" loop occurring under specific circumstances.",
+    "es": "Raid Selection: Fixed issues with the raid selection system.\nSecurity: Implemented a different compilation method for macros to prevent Windows Defender detection.\nStability: Fixed the \"Diamond\" loop occurring under specific circumstances."
   }
 }
