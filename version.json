@@ -1,9 +1,9 @@
 {
-  "version": "4.8",
-  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V4.8/Card.Ascension.exe",
+  "version": "5.0",
+  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V5.0/Card.Ascension.exe",
   "release_notes": {
-    "fr": "Sélection de Raid : Correction du système de sélection des raids.\nSécurité : Nouvelle méthode de compilation des macros pour éviter la détection par Windows Defender.\nStabilité : Correction de la boucle infinie de l'icône \"Diamond\" dans certaines circonstances.",
-    "en": "Raid Selection: Fixed issues with the raid selection system.\nSecurity: Implemented a different compilation method for macros to prevent Windows Defender detection.\nStability: Fixed the \"Diamond\" loop occurring under specific circumstances.",
-    "es": "Raid Selection: Fixed issues with the raid selection system.\nSecurity: Implemented a different compilation method for macros to prevent Windows Defender detection.\nStability: Fixed the \"Diamond\" loop occurring under specific circumstances."
+    "fr": "Voir sur discord !",
+    "en": "See to Discord",
+    "es": "See to Discord"
   }
 }
