@@ -1,9 +1,9 @@
 {
-  "version": "5.0",
-  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V5.0/Card.Ascension.exe",
+  "version": "5.1",
+  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V5.1/Card.Ascension.exe",
   "release_notes": {
-    "fr": "Voir sur discord !",
-    "en": "See to Discord",
-    "es": "See to Discord"
+    "fr": "Fix d'un bug critique sur l'autobuy diamond",
+    "en": "Fix critical bug of autobuy gallery",
+    "es": "Fix critical bug of autobuy gallery"
   }
 }
