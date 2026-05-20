@@ -1,9 +1,9 @@
 {
-  "version": "6.1",
-  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V6.1/Card.Ascension.exe",
+  "version": "6.5",
+  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V6.5/Card.Ascension.exe",
   "release_notes": {
-    "fr": "Si la maj est bloqué, passez par le site directement",
-    "en": "If update are stuck go on website directly",
-    "es": "If update are stuck go on website directly"
+    "fr": "Discord",
+    "en": "Discord",
+    "es": "Discord"
   }
 }
