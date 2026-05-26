@@ -1,9 +1,9 @@
 {
-  "version": "6.8",
-  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V6.8/Card.Ascension.exe",
+  "version": "6.9",
+  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V6.9/Card.Ascension.exe",
   "release_notes": {
-    "fr": "Discord",
-    "en": "Discord",
-    "es": "Discord"
+    "fr": "Fix bug d'update",
+    "en": "Fix bug update",
+    "es": "Fix bug update"
   }
 }
