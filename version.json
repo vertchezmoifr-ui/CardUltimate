@@ -1,9 +1,9 @@
 {
-  "version": "7.3",
-  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V7.3/Card.Ascension.exe",
+  "version": "7.4",
+  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V7.4/Card.Ascension.exe",
   "release_notes": {
-    "fr": "Ajout des pack et raid",
-    "en": "Add new pack and raid",
-    "es": "Add new pack and raid"
+    "fr": "Discord",
+    "en": "Discord",
+    "es": "Discord"
   }
 }
