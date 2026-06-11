@@ -1,9 +1,9 @@
 {
-  "version": "7.41",
-  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V7.41/Card.Ascension.exe",
+  "version": "7.42",
+  "url": "https://github.com/vertchezmoifr-ui/CardUltimate/releases/download/V7.42/Card.Ascension.exe",
   "release_notes": {
-    "fr": "Discord",
-    "en": "Discord",
-    "es": "Discord"
+    "fr": "Raid toutes les 15 minutes",
+    "en": "Raid every 15 min",
+    "es": "Raid every 15 min"
   }
 }
